@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'AdLam Display';
+    src: url('../fonts/ADLaMDisplay-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bounded Black';
+    src: url('../fonts/Bounded-Black.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.mainIcons
+{
+    width: 50%;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin: 0 auto;
+    height: fit-content;
+    padding: 1%;
+    .iconsElement
+    {
+        font-family: 'Bounded Black';;
+        font-size: 24pt;
+        justify-content: center;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        height: 15vh;
+    }
+}
+
+@media (max-width: 558px)
+{
+    .mainIcons
+    {
+        width: 80%;
+    }
+}

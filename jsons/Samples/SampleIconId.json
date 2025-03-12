@@ -1,0 +1,10 @@
+[
+    {
+        "IconID": 0,
+        "ImageRelativePath": "image.png"
+    },
+    {
+        "IconID": 1,
+        "ImageRelativePath": "Image2.png"
+    }
+]
