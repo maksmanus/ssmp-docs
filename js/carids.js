@@ -19,7 +19,7 @@ async function LoadCarIdJSON()
     tbody.appendChild(_tr);
 
     let namingarray = ["Car id", "Car Name", "Model name", "Category"];
-    namingarray.forEach(element => 
+    namingarray.forEach((element, index) => 
     {
         let td = document.createElement("td");
         td.classList.add("tablecar-td");
@@ -35,12 +35,15 @@ async function LoadCarIdJSON()
         tr.classList.add("tablecar-row");
 
         let array = [element.Carid, element.Name, element.GameName, element.Category];
-        array.forEach(element => 
+        array.forEach((element, index) => 
         {
             let td = document.createElement("td");
             td.classList.add("tablecar-td");
             let text = element + '  ';
-            td.innerHTML = text;
+            if(index == 1)
+                td.innerHTML = text.replace(/_/, " ");
+            else
+                td.innerHTML = text;
             tr.appendChild(td);
         });   
 

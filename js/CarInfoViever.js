@@ -27,7 +27,10 @@ function GetCarItem()
         carinfoblock.appendChild(_element);
         let rigthElement = document.createElement("p");
         rigthElement.classList.add("rigth");
-        rigthElement.textContent = CarObjectArray[index];
+        if(index == 1)
+            rigthElement.textContent = CarObjectArray[index].replace(/_/, " ");
+        else
+            rigthElement.textContent = CarObjectArray[index];
         carinfoblock.appendChild(rigthElement);
 
         if(index != 0)
