@@ -1,0 +1,248 @@
+@font-face {
+    font-family: 'AdLam Display';
+    src: url('../fonts/ADLaMDisplay-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bounded Black';
+    src: url('../fonts/Bounded-Black.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a
+{
+    text-decoration: none;
+}
+
+header
+{
+    background: #090418;
+    height: fit-content;
+    width: 100%;
+    min-height: 15dvh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 1%;
+}
+
+div.void
+{
+    font-size: 15pt;
+    color: white;
+    height: 100%;
+    width: 50%;
+    p
+    {
+        font-family: 'Bounded Black';
+    }
+}
+
+.mainbutton
+{   
+    font-family: 'AdLam Display';
+    padding: 10px;
+    width: fit-content;
+    height: 11dvh;
+    font-size: 14pt;
+    border: none;
+    background: #09041800;
+    color: white;
+}
+
+main
+{
+    color: white;
+    width: 100%;
+    min-height: 100dvh;
+    height: auto;
+    background: #120830;
+}
+
+div.maintext
+{
+    padding-top: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div._maintext
+{
+    padding-top: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+div.buttons-row
+{
+    display: flex;
+    height: auto;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+    .buttonscolums
+    {
+        display: flex;
+        width: 100%;
+        height: inherit;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        a.columnsbuttons
+        {
+
+            font-family: 'Bounded Black';
+            border-radius: 21px;
+            font-size: 20pt;
+            box-sizing: content-box;
+            margin: 3%;
+            display: flex;
+            background-color: #331687;
+            width: 40%;
+            height: 13dvh;
+            color: white;
+            text-align: center;
+            justify-content: center; /* Центрирование по горизонтали */
+            align-items: center; /* Центрирование по вертикали */
+        }
+
+        a img
+        {
+            width: 45px;
+            aspect-ratio: 1 / 1;
+        }
+    }
+}
+
+.tablecar
+{
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 1%;
+    font-size: 16pt;
+    min-width: 600px;
+}
+
+#tablecar
+{
+    overflow-x: auto;
+}
+
+.tablecar-row
+{
+    transition: background-color 0.2s;
+}
+
+.tablecar-row:hover
+{
+    background-color: #331687;
+}
+
+.tablecar-td
+{
+    padding-right: 10px;
+}
+
+.CarInfoBlock
+{
+    margin: 0 auto;
+    margin-top: 10vh;
+    background-color: #1D0B53;
+    width: 80%;
+    height: auto;
+
+    .grid-container
+    {
+        font-size: 20pt;
+        padding: 2%;
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+
+    .left
+    {
+        font-family: 'Bounded Black';
+        text-align: left;
+    }
+
+    .rigth
+    {
+        font-family: 'Bounded Black';
+        text-align: right;
+    }
+}
+
+.backtext
+{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 3vh;
+    font-size: 14pt;
+    cursor: pointer;
+    font-family: 'AdLam Display';
+}
+
+@media (max-width: 558px)
+{
+    div.void
+    {
+        display: none;
+    }
+    div.maintext
+    {
+        font-size: 5pt;
+        text-align: center;
+    }
+
+    div.buttons-row
+    {
+        flex-direction: column;
+        .buttonscolums
+        {
+            flex-direction: column;
+            a.columnsbuttons
+            {
+                width: 70%;
+                font-size: 16pt;
+            }
+
+        }
+    }   
+    
+    .tablecar
+    {
+        width: 99%;
+        font-size: 14pt;
+    }
+
+    .CarInfoBlock
+    {
+        width: 95%;
+        .grid-container
+        {
+            font-size: 14pt;
+        }
+    }
+    .mainbutton
+    {
+        width: 100%;
+    }
+
+    header
+    {
+        display: block;
+    }
+}

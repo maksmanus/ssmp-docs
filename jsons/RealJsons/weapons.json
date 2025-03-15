@@ -1,0 +1,1017 @@
+[
+    {
+        "ModelName": "Not have model",
+        "SlotId": 0,
+        "WeaponId": 0,
+        "WeaponModelID": "Not have model id",
+        "WeaponName": "Fist"
+    },
+    {
+        "ModelName": "brassknuckle",
+        "SlotId": 0,
+        "WeaponId": 1,
+        "WeaponModelID": 331,
+        "WeaponName": "Brass Knuckles"
+    },
+    {
+        "ModelName": "golfclub",
+        "SlotId": 1,
+        "WeaponId": 2,
+        "WeaponModelID": 333,
+        "WeaponName": "Golf Club"
+    },
+    {
+        "ModelName": "nitestick",
+        "SlotId": 1,
+        "WeaponId": 3,
+        "WeaponModelID": 334,
+        "WeaponName": "Nite Stick"
+    },
+    {
+        "ModelName": "knifecur",
+        "SlotId": 1,
+        "WeaponId": 4,
+        "WeaponModelID": 335,
+        "WeaponName": "Knife"
+    },
+    {
+        "ModelName": "bat",
+        "SlotId": 1,
+        "WeaponId": 5,
+        "WeaponModelID": 336,
+        "WeaponName": "Baseball Bat"
+    },
+    {
+        "ModelName": "shovel",
+        "SlotId": 1,
+        "WeaponId": 6,
+        "WeaponModelID": 337,
+        "WeaponName": "Shovel"
+    },
+    {
+        "ModelName": "poolcue",
+        "SlotId": 1,
+        "WeaponId": 7,
+        "WeaponModelID": 338,
+        "WeaponName": "Pool Cue"
+    },
+    {
+        "ModelName": "katana",
+        "SlotId": 1,
+        "WeaponId": 8,
+        "WeaponModelID": 339,
+        "WeaponName": "Katana"
+    },
+    {
+        "ModelName": "chnsaw",
+        "SlotId": 1,
+        "WeaponId": 9,
+        "WeaponModelID": 341,
+        "WeaponName": "Chainsaw"
+    },
+    {
+        "ModelName": "gun_dildo1",
+        "SlotId": 10,
+        "WeaponId": 10,
+        "WeaponModelID": 321,
+        "WeaponName": "Dildo"
+    },
+    {
+        "ModelName": "gun_dildo1",
+        "SlotId": 10,
+        "WeaponId": 11,
+        "WeaponModelID": 322,
+        "WeaponName": "Dildo"
+    },
+    {
+        "ModelName": "gun_vibe1",
+        "SlotId": 10,
+        "WeaponId": 12,
+        "WeaponModelID": 323,
+        "WeaponName": "Vibrator"
+    },
+    {
+        "ModelName": "gun_vibe2",
+        "SlotId": 10,
+        "WeaponId": 13,
+        "WeaponModelID": 324,
+        "WeaponName": "Vibrator"
+    },
+    {
+        "ModelName": "flowera",
+        "SlotId": 10,
+        "WeaponId": 14,
+        "WeaponModelID": 325,
+        "WeaponName": "Flowers"
+    },
+    {
+        "ModelName": "gun_cane",
+        "SlotId": 10,
+        "WeaponId": 15,
+        "WeaponModelID": 326,
+        "WeaponName": "Cane"
+    },
+    {
+        "ModelName": "grenade",
+        "SlotId": 8,
+        "WeaponId": 16,
+        "WeaponModelID": 342,
+        "WeaponName": "Grenade"
+    },
+    {
+        "ModelName": "teargas",
+        "SlotId": 8,
+        "WeaponId": 17,
+        "WeaponModelID": 343,
+        "WeaponName": "Teargas"
+    },
+    {
+        "ModelName": "molotov",
+        "SlotId": 8,
+        "WeaponId": 18,
+        "WeaponModelID": 344,
+        "WeaponName": "Molotov"
+    },
+    {
+        "ModelName": "colt45",
+        "SlotId": 2,
+        "WeaponId": 22,
+        "WeaponModelID": 346,
+        "WeaponName": "Colt 45"
+    },
+    {
+        "ModelName": "silenced",
+        "SlotId": 2,
+        "WeaponId": 23,
+        "WeaponModelID": 347,
+        "WeaponName": "Silenced Pistol"
+    },
+    {
+        "ModelName": "desert_eagle",
+        "SlotId": 2,
+        "WeaponId": 24,
+        "WeaponModelID": 348,
+        "WeaponName": "Desert Eagle"
+    },
+    {
+        "ModelName": "chromegun",
+        "SlotId": 3,
+        "WeaponId": 25,
+        "WeaponModelID": 349,
+        "WeaponName": "Shotgun"
+    },
+    {
+        "ModelName": "sawnoff",
+        "SlotId": 3,
+        "WeaponId": 26,
+        "WeaponModelID": 350,
+        "WeaponName": "Sawn-off Shotgun"
+    },
+    {
+        "ModelName": "shotgspa",
+        "SlotId": 3,
+        "WeaponId": 27,
+        "WeaponModelID": 351,
+        "WeaponName": "Combat Shotgun"
+    },
+    {
+        "ModelName": "micro_uzi",
+        "SlotId": 4,
+        "WeaponId": 28,
+        "WeaponModelID": 352,
+        "WeaponName": "Mirco UZI"
+    },
+    {
+        "ModelName": "mp5lng",
+        "SlotId": 4,
+        "WeaponId": 29,
+        "WeaponModelID": 353,
+        "WeaponName": "MP5"
+    },
+    {
+        "ModelName": "ak47",
+        "SlotId": 5,
+        "WeaponId": 30,
+        "WeaponModelID": 355,
+        "WeaponName": "AK47"
+    },
+    {
+        "ModelName": "m4",
+        "SlotId": 5,
+        "WeaponId": 31,
+        "WeaponModelID": 356,
+        "WeaponName": "M4"
+    },
+    {
+        "ModelName": "tec9",
+        "SlotId": 4,
+        "WeaponId": 32,
+        "WeaponModelID": 372,
+        "WeaponName": "TEC9"
+    },
+    {
+        "ModelName": "cuntgun",
+        "SlotId": 6,
+        "WeaponId": 33,
+        "WeaponModelID": 357,
+        "WeaponName": "Rifle"
+    },
+    {
+        "ModelName": "sniper",
+        "SlotId": 6,
+        "WeaponId": 34,
+        "WeaponModelID": 358,
+        "WeaponName": "Sniper Rifle"
+    },
+    {
+        "ModelName": "rocketla",
+        "SlotId": 7,
+        "WeaponId": 35,
+        "WeaponModelID": 359,
+        "WeaponName": "Rocket Launcher"
+    },
+    {
+        "ModelName": "heatseek",
+        "SlotId": 7,
+        "WeaponId": 36,
+        "WeaponModelID": 360,
+        "WeaponName": "Heat Seaker"
+    },
+    {
+        "ModelName": "flame",
+        "SlotId": 7,
+        "WeaponId": 37,
+        "WeaponModelID": 361,
+        "WeaponName": "Flamethrower"
+    },
+    {
+        "ModelName": "minigun",
+        "SlotId": 7,
+        "WeaponId": 38,
+        "WeaponModelID": 362,
+        "WeaponName": "Minigun"
+    },
+    {
+        "ModelName": "satchel",
+        "SlotId": 8,
+        "WeaponId": 39,
+        "WeaponModelID": 363,
+        "WeaponName": "Satchel Explosives"
+    },
+    {
+        "ModelName": "bomb",
+        "SlotId": 12,
+        "WeaponId": 40,
+        "WeaponModelID": 364,
+        "WeaponName": "Bomb"
+    },
+    {
+        "ModelName": "spraycan",
+        "SlotId": 9,
+        "WeaponId": 41,
+        "WeaponModelID": 365,
+        "WeaponName": "Spray Can"
+    },
+    {
+        "ModelName": "fire_ex",
+        "SlotId": 9,
+        "WeaponId": 42,
+        "WeaponModelID": 366,
+        "WeaponName": "Fire Extinguisher"
+    },
+    {
+        "ModelName": "camera",
+        "SlotId": 9,
+        "WeaponId": 43,
+        "WeaponModelID": 367,
+        "WeaponName": "Camera"
+    },
+    {
+        "ModelName": "nvgoggles",
+        "SlotId": 11,
+        "WeaponId": 44,
+        "WeaponModelID": 368,
+        "WeaponName": "Night Vision"
+    },
+    {
+        "ModelName": "irgoggles",
+        "SlotId": 11,
+        "WeaponId": 45,
+        "WeaponModelID": 369,
+        "WeaponName": "Thermal Goggles"
+    },
+    {
+        "ModelName": "gun_para",
+        "SlotId": 11,
+        "WeaponId": 46,
+        "WeaponModelID": 371,
+        "WeaponName": "Parachute"
+    },
+    {
+        "ModelName": "skateboard",
+        "SlotId": 1,
+        "WeaponId": 70,
+        "WeaponModelID": 6526,
+        "WeaponName": "Skateboard"
+    },
+    {
+        "ModelName": "binoculars",
+        "SlotId": 11,
+        "WeaponId": 71,
+        "WeaponModelID": 6527,
+        "WeaponName": "Binoculars"
+    },
+    {
+        "ModelName": "cudgel",
+        "SlotId": 1,
+        "WeaponId": 72,
+        "WeaponModelID": 6528,
+        "WeaponName": "Cudgel"
+    },
+    {
+        "ModelName": "nailbat",
+        "SlotId": 1,
+        "WeaponId": 73,
+        "WeaponModelID": 6529,
+        "WeaponName": "Nailbat"
+    },
+    {
+        "ModelName": "shovel_2",
+        "SlotId": 1,
+        "WeaponId": 74,
+        "WeaponModelID": 6530,
+        "WeaponName": "Shovel 2"
+    },
+    {
+        "ModelName": "axe",
+        "SlotId": 1,
+        "WeaponId": 75,
+        "WeaponModelID": 6531,
+        "WeaponName": "Axe"
+    },
+    {
+        "ModelName": "wrench",
+        "SlotId": 1,
+        "WeaponId": 76,
+        "WeaponModelID": 6532,
+        "WeaponName": "Wrench"
+    },
+    {
+        "ModelName": "pipewr",
+        "SlotId": 1,
+        "WeaponId": 77,
+        "WeaponModelID": 6533,
+        "WeaponName": "Pipe wrench"
+    },
+    {
+        "ModelName": "crowbar",
+        "SlotId": 1,
+        "WeaponId": 78,
+        "WeaponModelID": 6534,
+        "WeaponName": "Crowbar"
+    },
+    {
+        "ModelName": "cleaver",
+        "SlotId": 1,
+        "WeaponId": 79,
+        "WeaponModelID": 6535,
+        "WeaponName": "Cleaver"
+    },
+    {
+        "ModelName": "hatchet",
+        "SlotId": 1,
+        "WeaponId": 80,
+        "WeaponModelID": 6536,
+        "WeaponName": "Hatchet"
+    },
+    {
+        "ModelName": "screwdr",
+        "SlotId": 1,
+        "WeaponId": 81,
+        "WeaponModelID": 6538,
+        "WeaponName": "Screwdriver"
+    },
+    {
+        "ModelName": "machete",
+        "SlotId": 1,
+        "WeaponId": 82,
+        "WeaponModelID": 6537,
+        "WeaponName": "Machete"
+    },
+    {
+        "ModelName": "kukri",
+        "SlotId": 1,
+        "WeaponId": 83,
+        "WeaponModelID": 6539,
+        "WeaponName": "Kukri Knife"
+    },
+    {
+        "ModelName": "dagger",
+        "SlotId": 1,
+        "WeaponId": 84,
+        "WeaponModelID": 6540,
+        "WeaponName": "Dagger Knife"
+    },
+    {
+        "ModelName": "butterfly",
+        "SlotId": 1,
+        "WeaponId": 85,
+        "WeaponModelID": 6541,
+        "WeaponName": "Butterfly Knife"
+    },
+    {
+        "ModelName": "hammer",
+        "SlotId": 1,
+        "WeaponId": 86,
+        "WeaponModelID": 6542,
+        "WeaponName": "Hammer"
+    },
+    {
+        "ModelName": "pickaxe",
+        "SlotId": 1,
+        "WeaponId": 87,
+        "WeaponModelID": 6543,
+        "WeaponName": "Pickaxe"
+    },
+    {
+        "ModelName": "guitar",
+        "SlotId": 1,
+        "WeaponId": 88,
+        "WeaponModelID": 6544,
+        "WeaponName": "Guitar"
+    },
+    {
+        "ModelName": "hockst",
+        "SlotId": 1,
+        "WeaponId": 89,
+        "WeaponModelID": 6545,
+        "WeaponName": "Hockey Stick"
+    },
+    {
+        "ModelName": "brokenbottle",
+        "SlotId": 1,
+        "WeaponId": 90,
+        "WeaponModelID": 6624,
+        "WeaponName": "Broken Bottle"
+    },
+    {
+        "ModelName": "katana_2",
+        "SlotId": 1,
+        "WeaponId": 91,
+        "WeaponModelID": 6625,
+        "WeaponName": "Yu Jian Sword"
+    },
+    {
+        "ModelName": "mhchainsaw",
+        "SlotId": 1,
+        "WeaponId": 92,
+        "WeaponModelID": 6626,
+        "WeaponName": "Manhunt Chainsaw"
+    },
+    {
+        "ModelName": "parachute_2",
+        "SlotId": 11,
+        "WeaponId": 99,
+        "WeaponModelID": 6546,
+        "WeaponName": "Parachute 2"
+    },
+    {
+        "ModelName": "psg1",
+        "SlotId": 6,
+        "WeaponId": 100,
+        "WeaponModelID": 6547,
+        "WeaponName": "PSG1"
+    },
+    {
+        "ModelName": "glock",
+        "SlotId": 2,
+        "WeaponId": 101,
+        "WeaponModelID": 6548,
+        "WeaponName": "Glock"
+    },
+    {
+        "ModelName": "glocksi",
+        "SlotId": 2,
+        "WeaponId": 102,
+        "WeaponModelID": 6549,
+        "WeaponName": "Glock Silenced"
+    },
+    {
+        "ModelName": "fal",
+        "SlotId": 5,
+        "WeaponId": 103,
+        "WeaponModelID": 6550,
+        "WeaponName": "FN FAL"
+    },
+    {
+        "ModelName": "doubleb",
+        "SlotId": 3,
+        "WeaponId": 104,
+        "WeaponModelID": 6551,
+        "WeaponName": "Double Barrel"
+    },
+    {
+        "ModelName": "m202",
+        "SlotId": 7,
+        "WeaponId": 105,
+        "WeaponModelID": 6552,
+        "WeaponName": "M202A1"
+    },
+    {
+        "ModelName": "m9",
+        "SlotId": 2,
+        "WeaponId": 106,
+        "WeaponModelID": 6553,
+        "WeaponName": "Beretta M9"
+    },
+    {
+        "ModelName": "ots",
+        "SlotId": 2,
+        "WeaponId": 107,
+        "WeaponModelID": 6554,
+        "WeaponName": "OTs-33"
+    },
+    {
+        "ModelName": "svd",
+        "SlotId": 6,
+        "WeaponId": 108,
+        "WeaponModelID": 6586,
+        "WeaponName": "SVD"
+    },
+    {
+        "ModelName": "m12",
+        "SlotId": 4,
+        "WeaponId": 109,
+        "WeaponModelID": 6555,
+        "WeaponName": "Beretta M12"
+    },
+    {
+        "ModelName": "aa12",
+        "SlotId": 3,
+        "WeaponId": 110,
+        "WeaponModelID": 6556,
+        "WeaponName": "AA-12"
+    },
+    {
+        "ModelName": "t1928",
+        "SlotId": 5,
+        "WeaponId": 111,
+        "WeaponModelID": 6557,
+        "WeaponName": "Tommy Gun"
+    },
+    {
+        "ModelName": "mac10",
+        "SlotId": 4,
+        "WeaponId": 112,
+        "WeaponModelID": 6558,
+        "WeaponName": "MAC-10"
+    },
+    {
+        "ModelName": "mac10s",
+        "SlotId": 4,
+        "WeaponId": 113,
+        "WeaponModelID": 6559,
+        "WeaponName": "MAC-10 Silenced"
+    },
+    {
+        "ModelName": "wa2000",
+        "SlotId": 6,
+        "WeaponId": 114,
+        "WeaponModelID": 6560,
+        "WeaponName": "WA 2000"
+    },
+    {
+        "ModelName": "50cal",
+        "SlotId": 6,
+        "WeaponId": 115,
+        "WeaponModelID": 6561,
+        "WeaponName": "50CAL"
+    },
+    {
+        "ModelName": "python",
+        "SlotId": 2,
+        "WeaponId": 116,
+        "WeaponModelID": 6562,
+        "WeaponName": "Python"
+    },
+    {
+        "ModelName": "equaliz",
+        "SlotId": 2,
+        "WeaponId": 117,
+        "WeaponModelID": 6563,
+        "WeaponName": "Equalizer"
+    },
+    {
+        "ModelName": "m3",
+        "SlotId": 4,
+        "WeaponId": 118,
+        "WeaponModelID": 6564,
+        "WeaponName": "M3"
+    },
+    {
+        "ModelName": "pmm",
+        "SlotId": 2,
+        "WeaponId": 119,
+        "WeaponModelID": 6565,
+        "WeaponName": "PMM"
+    },
+    {
+        "ModelName": "m16sc",
+        "SlotId": 5,
+        "WeaponId": 120,
+        "WeaponModelID": 6567,
+        "WeaponName": "M16 Scope"
+    },
+    {
+        "ModelName": "m16",
+        "SlotId": 5,
+        "WeaponId": 121,
+        "WeaponModelID": 6566,
+        "WeaponName": "M16"
+    },
+    {
+        "ModelName": "m4sd",
+        "SlotId": 5,
+        "WeaponId": 122,
+        "WeaponModelID": 6568,
+        "WeaponName": "M4SD Silenced"
+    },
+    {
+        "ModelName": "m4shit",
+        "SlotId": 5,
+        "WeaponId": 123,
+        "WeaponModelID": 6569,
+        "WeaponName": "M4 Shit"
+    },
+    {
+        "ModelName": "m249",
+        "SlotId": 7,
+        "WeaponId": 124,
+        "WeaponModelID": 6570,
+        "WeaponName": "M249"
+    },
+    {
+        "ModelName": "m60",
+        "SlotId": 7,
+        "WeaponId": 125,
+        "WeaponModelID": 6571,
+        "WeaponName": "M60"
+    },
+    {
+        "ModelName": "mg42",
+        "SlotId": 7,
+        "WeaponId": 126,
+        "WeaponModelID": 6572,
+        "WeaponName": "MG42"
+    },
+    {
+        "ModelName": "skorpion",
+        "SlotId": 4,
+        "WeaponId": 127,
+        "WeaponModelID": 6573,
+        "WeaponName": "Skorpion"
+    },
+    {
+        "ModelName": "ruger",
+        "SlotId": 5,
+        "WeaponId": 128,
+        "WeaponModelID": 6574,
+        "WeaponName": "Ruger"
+    },
+    {
+        "ModelName": "rugers",
+        "SlotId": 5,
+        "WeaponId": 129,
+        "WeaponModelID": 6575,
+        "WeaponName": "Ruger Scope"
+    },
+    {
+        "ModelName": "usas",
+        "SlotId": 3,
+        "WeaponId": 130,
+        "WeaponModelID": 6576,
+        "WeaponName": "USAS-12"
+    },
+    {
+        "ModelName": "steyraug",
+        "SlotId": 5,
+        "WeaponId": 131,
+        "WeaponModelID": 6577,
+        "WeaponName": "Steyr AUG"
+    },
+    {
+        "ModelName": "bizon",
+        "SlotId": 4,
+        "WeaponId": 132,
+        "WeaponModelID": 6578,
+        "WeaponName": "PP-19 Bizon"
+    },
+    {
+        "ModelName": "betacmag",
+        "SlotId": 4,
+        "WeaponId": 133,
+        "WeaponModelID": 6579,
+        "WeaponName": "Beta C-Mag"
+    },
+    {
+        "ModelName": "uzi",
+        "SlotId": 4,
+        "WeaponId": 134,
+        "WeaponModelID": 6580,
+        "WeaponName": "Uzi"
+    },
+    {
+        "ModelName": "uzis",
+        "SlotId": 4,
+        "WeaponId": 135,
+        "WeaponModelID": 6581,
+        "WeaponName": "Uzi Silenced"
+    },
+    {
+        "ModelName": "galil",
+        "SlotId": 5,
+        "WeaponId": 136,
+        "WeaponModelID": 6582,
+        "WeaponName": "Galil"
+    },
+    {
+        "ModelName": "mp5sd",
+        "SlotId": 5,
+        "WeaponId": 137,
+        "WeaponModelID": 6583,
+        "WeaponName": "MP5 Silenced"
+    },
+    {
+        "ModelName": "mp5k",
+        "SlotId": 5,
+        "WeaponId": 138,
+        "WeaponModelID": 6584,
+        "WeaponName": "MP5K"
+    },
+    {
+        "ModelName": "leversg",
+        "SlotId": 3,
+        "WeaponId": 139,
+        "WeaponModelID": 6585,
+        "WeaponName": "Lever SG"
+    },
+    {
+        "ModelName": "sl8",
+        "SlotId": 6,
+        "WeaponId": 140,
+        "WeaponModelID": 6587,
+        "WeaponName": "SL8"
+    },
+    {
+        "ModelName": "stubby",
+        "SlotId": 3,
+        "WeaponId": 141,
+        "WeaponModelID": 6588,
+        "WeaponName": "Stubby Shotgun"
+    },
+    {
+        "ModelName": "asval",
+        "SlotId": 6,
+        "WeaponId": 142,
+        "WeaponModelID": 6589,
+        "WeaponName": "AS Val"
+    },
+    {
+        "ModelName": "famas",
+        "SlotId": 5,
+        "WeaponId": 143,
+        "WeaponModelID": 6590,
+        "WeaponName": "FAMAS"
+    },
+    {
+        "ModelName": "tacsmg",
+        "SlotId": 4,
+        "WeaponId": 144,
+        "WeaponModelID": 6591,
+        "WeaponName": "TAC-SMG"
+    },
+    {
+        "ModelName": "87target",
+        "SlotId": 2,
+        "WeaponId": 145,
+        "WeaponModelID": 6595,
+        "WeaponName": "87 Target"
+    },
+    {
+        "ModelName": "38r",
+        "SlotId": 2,
+        "WeaponId": 146,
+        "WeaponModelID": 6596,
+        "WeaponName": "38 Revolver"
+    },
+    {
+        "ModelName": "c96",
+        "SlotId": 2,
+        "WeaponId": 147,
+        "WeaponModelID": 6597,
+        "WeaponName": "Mauser C96"
+    },
+    {
+        "ModelName": "smith10",
+        "SlotId": 2,
+        "WeaponId": 148,
+        "WeaponModelID": 6598,
+        "WeaponName": "Smith 10"
+    },
+    {
+        "ModelName": "volcanic",
+        "SlotId": 2,
+        "WeaponId": 149,
+        "WeaponModelID": 6599,
+        "WeaponName": "Volcanic Revolver"
+    },
+    {
+        "ModelName": "clahitec",
+        "SlotId": 2,
+        "WeaponId": 150,
+        "WeaponModelID": 6600,
+        "WeaponName": "Clahitec"
+    },
+    {
+        "ModelName": "scamp",
+        "SlotId": 2,
+        "WeaponId": 151,
+        "WeaponModelID": 6601,
+        "WeaponName": "Colt Scamp"
+    },
+    {
+        "ModelName": "vd01",
+        "SlotId": 2,
+        "WeaponId": 152,
+        "WeaponModelID": 6602,
+        "WeaponName": "Danuvia VD-01"
+    },
+    {
+        "ModelName": "peppergun",
+        "SlotId": 2,
+        "WeaponId": 153,
+        "WeaponModelID": 6603,
+        "WeaponName": "Peppergun"
+    },
+    {
+        "ModelName": "gm24",
+        "SlotId": 8,
+        "WeaponId": 154,
+        "WeaponModelID": 6592,
+        "WeaponName": "GM24"
+    },
+    {
+        "ModelName": "tm34",
+        "SlotId": 8,
+        "WeaponId": 155,
+        "WeaponModelID": 6593,
+        "WeaponName": "TM34"
+    },
+    {
+        "ModelName": "pibomb",
+        "SlotId": 8,
+        "WeaponId": 156,
+        "WeaponModelID": 6594,
+        "WeaponName": "Pipe Bomb"
+    },
+    {
+        "ModelName": "win1912",
+        "SlotId": 3,
+        "WeaponId": 157,
+        "WeaponModelID": 6604,
+        "WeaponName": "Winchester 1912"
+    },
+    {
+        "ModelName": "moss500",
+        "SlotId": 3,
+        "WeaponId": 158,
+        "WeaponModelID": 6605,
+        "WeaponName": "Mossberg 500"
+    },
+    {
+        "ModelName": "hkcaws",
+        "SlotId": 3,
+        "WeaponId": 159,
+        "WeaponModelID": 6606,
+        "WeaponName": "HK CAWS"
+    },
+    {
+        "ModelName": "christ",
+        "SlotId": 3,
+        "WeaponId": 160,
+        "WeaponModelID": 6607,
+        "WeaponName": "Christmas Shotgun"
+    },
+    {
+        "ModelName": "microsm",
+        "SlotId": 4,
+        "WeaponId": 161,
+        "WeaponModelID": 6608,
+        "WeaponName": "Micro SMG"
+    },
+    {
+        "ModelName": "ingram",
+        "SlotId": 4,
+        "WeaponId": 162,
+        "WeaponModelID": 6611,
+        "WeaponName": "Ingram"
+    },
+    {
+        "ModelName": "jatimac",
+        "SlotId": 4,
+        "WeaponId": 163,
+        "WeaponModelID": 6609,
+        "WeaponName": "Jatimatic"
+    },
+    {
+        "ModelName": "p90",
+        "SlotId": 4,
+        "WeaponId": 164,
+        "WeaponModelID": 6610,
+        "WeaponName": "P90"
+    },
+    {
+        "ModelName": "mp40",
+        "SlotId": 4,
+        "WeaponId": 165,
+        "WeaponModelID": 6612,
+        "WeaponName": "MP40"
+    },
+    {
+        "ModelName": "l22",
+        "SlotId": 5,
+        "WeaponId": 166,
+        "WeaponModelID": 6613,
+        "WeaponName": "L22"
+    },
+    {
+        "ModelName": "ar15",
+        "SlotId": 5,
+        "WeaponId": 167,
+        "WeaponModelID": 6614,
+        "WeaponName": "AR-15"
+    },
+    {
+        "ModelName": "m1918",
+        "SlotId": 5,
+        "WeaponId": 168,
+        "WeaponModelID": 6615,
+        "WeaponName": "M1918"
+    },
+    {
+        "ModelName": "aek971",
+        "SlotId": 5,
+        "WeaponId": 169,
+        "WeaponModelID": 6616,
+        "WeaponName": "AEK-971"
+    },
+    {
+        "ModelName": "m1",
+        "SlotId": 6,
+        "WeaponId": 170,
+        "WeaponModelID": 6617,
+        "WeaponName": "M1 Garand"
+    },
+    {
+        "ModelName": "hen1860",
+        "SlotId": 6,
+        "WeaponId": 171,
+        "WeaponModelID": 6618,
+        "WeaponName": "Henry 1860"
+    },
+    {
+        "ModelName": "m82",
+        "SlotId": 6,
+        "WeaponId": 172,
+        "WeaponModelID": 6619,
+        "WeaponName": "M82"
+    },
+    {
+        "ModelName": "m90",
+        "SlotId": 6,
+        "WeaponId": 173,
+        "WeaponModelID": 6620,
+        "WeaponName": "M90"
+    },
+    {
+        "ModelName": "fg42",
+        "SlotId": 6,
+        "WeaponId": 174,
+        "WeaponModelID": 6621,
+        "WeaponName": "FG-42"
+    },
+    {
+        "ModelName": "cgm2",
+        "SlotId": 7,
+        "WeaponId": 175,
+        "WeaponModelID": 6623,
+        "WeaponName": "CGM2"
+    },
+    {
+        "ModelName": "evans",
+        "SlotId": 6,
+        "WeaponId": 177,
+        "WeaponModelID": 6622,
+        "WeaponName": "Evans Rifle"
+    }
+]

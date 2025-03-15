@@ -1,0 +1,38 @@
+{
+    "Carcategory": {
+        "None": "",
+        "Car": "Car",
+        "Bike": "Bike",
+        "Plane": "Plane",
+        "Boat": "Boat",
+        "Bycicle": "Bycicle",
+        "Trailer": "Trailer",
+        "Train": "Train",
+        "Truck": "Truck",
+        "Carrige": "Carrige",
+        "Helicopter": "Helicopter" 
+    },
+    "cars": [
+        {
+            "Carid": 1,
+            "Name": "Truck1",
+            "GameName": "truck1",
+            "Category": "Truck",
+            "ImagePath": "image1.png"
+        },
+        {
+            "Carid": 20000,
+            "Name": "Zalupa",
+            "GameName": "zalupa",
+            "Category": "Bycicle",
+            "ImagePath": "image1.png"
+        },
+        {
+            "Carid": 20111,
+            "Name": "Pizda",
+            "GameName": "pizda",
+            "Category": "Boat",
+            "ImagePath": "image1.png"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'AdLam Display';
+    src: url('../fonts/ADLaMDisplay-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bounded Black';
+    src: url('../fonts/Bounded-Black.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.mainIcons
+{
+    width: 50%;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin: 0 auto;
+    height: fit-content;
+    padding: 1%;
+    .iconsElement
+    {
+        font-family: 'Bounded Black';;
+        font-size: 24pt;
+        justify-content: center;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        height: 15vh;
+    }
+}
+
+.weaponTable
+{
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    height: auto;
+}
+
+.weaponTableRow
+{
+    width: 101%;
+    height: 10vh;
+    display: grid;
+    grid-template-columns: 17% 17% 17% 17% 10% 24%; 
+    /*grid-template-columns: 20% 20% 20% 20% 20%;*/
+    
+    .weaponTableBlock
+    {
+        font-size: 14pt;
+        display: flex;
+        height: 100%;
+        text-align: center;
+        align-items: center;
+        justify-content: left;
+
+        img
+        {
+            width: 60px;
+            aspect-ratio: 1 / 1;
+        }
+    }
+}
+
+.weapontransition
+{
+    transition: background-color 0.2s;
+}
+
+.weapontransition:hover
+{
+    background-color: #331687;
+}
+
+@media (max-width: 744px)
+{
+    .weaponTableRow
+    {
+        grid-template-columns: 14dvh 28dvh 22dvh 22dvh 22dvh 22dvh;
+    }
+
+    .weaponTable
+    {
+        width: 98%;
+        overflow-x: auto;
+    }
+
+    .weaponTableBlock
+    {
+        font-size: 14pt;
+    }
+}
+
+@media (max-width: 558px)
+{
+    .mainIcons
+    {
+        width: 80%;
+    }
+
+    .weaponTable
+    {
+        width: 98%;
+        overflow-x: auto;
+    }
+
+    .weaponTableRow
+    {
+        grid-template-columns: 14dvh 28dvh 22dvh 22dvh 22dvh 22dvh;
+    }
+
+    .weaponTableBlock
+    {
+        font-size: 14pt;
+    }
+}
