@@ -46,7 +46,7 @@ async function GetWeaponTable()
                 let image = document.createElement("img");
                 block.style.justifyContent = "center";
                 let builtstring = serverPath + ModelName + iconpng;
-                image.src = builtstring;
+                image.src = builtstring.toString();
                 block.appendChild(image);
             }
                 
