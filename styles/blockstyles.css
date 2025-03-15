@@ -32,10 +32,64 @@
     }
 }
 
+.weaponTable
+{
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    height: auto;
+}
+
+.weaponTableRow
+{
+    width: 100%;
+    height: 10vh;
+    display: grid;
+    grid-template-columns: 16% 16% 16% 16% 16% 16%; 
+    /*grid-template-columns: 20% 20% 20% 20% 20%;*/
+    
+    .weaponTableBlock
+    {
+        font-size: 14pt;
+        display: flex;
+        height: 100%;
+        text-align: center;
+        align-items: center;
+        justify-content: left;
+
+        img
+        {
+            width: 60px;
+            aspect-ratio: 1 / 1;
+        }
+    }
+}
+
+.weapontransition
+{
+    transition: background-color 0.2s;
+}
+
+.weapontransition:hover
+{
+    background-color: #331687;
+}
+
 @media (max-width: 558px)
 {
     .mainIcons
     {
         width: 80%;
+    }
+
+    .weaponTable
+    {
+        width: 98%;
+        overflow-x: auto;
+    }
+
+    .weaponTableRow
+    {
+        grid-template-columns: 25% 25% 25% 25% 25% 25%;
     }
 }

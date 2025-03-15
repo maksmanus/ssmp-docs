@@ -142,7 +142,7 @@ div.buttons-row
 
 .tablecar-row
 {
-    transform: 0.3s;
+    transition: background-color 0.2s;
 }
 
 .tablecar-row:hover
