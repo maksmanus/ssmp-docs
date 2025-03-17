@@ -68,6 +68,13 @@ main
     background: #120830;
 }
 
+footer
+{
+    width: 100%;
+    min-height: 100px;
+    background-color: #020e11;
+}
+
 div.maintext
 {
     padding-top: 3%;
